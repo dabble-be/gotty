@@ -4,7 +4,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yudai/gotty/server"
+	"fork.dabble.be/gotty/server"
 )
 
 type Options struct {

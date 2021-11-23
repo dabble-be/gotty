@@ -11,10 +11,10 @@ import (
 
 	"github.com/codegangsta/cli"
 
-	"github.com/yudai/gotty/backend/localcommand"
-	"github.com/yudai/gotty/pkg/homedir"
-	"github.com/yudai/gotty/server"
-	"github.com/yudai/gotty/utils"
+	"fork.dabble.be/gotty/backend/localcommand"
+	"fork.dabble.be/gotty/pkg/homedir"
+	"fork.dabble.be/gotty/server"
+	"fork.dabble.be/gotty/utils"
 )
 
 func main() {
